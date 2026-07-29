@@ -1,9 +1,4 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Younes%20El%20Ayadi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Aspiring%20Data%20Engineer&descSize=20&descAlignY=65"
-    width="100%"
-  />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Younes%20El%20Ayadi&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Aspiring%20Data%20Engineer&descSize=21&descColor=E0F2FE&descAlignY=63" width="100%" /> </p>
 
 
 
@@ -84,12 +79,7 @@
 </p>
 
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&section=footer"
-    width="100%"
-  />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer&animation=fadeIn" width="100%" /> </p>
 
 
 
