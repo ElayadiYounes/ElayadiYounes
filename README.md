@@ -79,7 +79,7 @@
 </p>
 
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer&animation=fadeIn" width="100%" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=egg&color=0:37F6BD,50:0ACF94,100:079C6F&height=220&section=footer&animation=fadeIn" width="100%" /> </p>
 
 
 
