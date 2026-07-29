@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e293b&height=200&section=header&text=Younes%20El%20Ayadi&fontSize=40&fontColor=ffffff" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Younes%20El%20Ayadi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Aspiring%20Data%20Engineer&descSize=20&descAlignY=65"
+    width="100%"
+  />
 </p>
-<h3 align="center">Aspiring Data Engineer | Data Scientist</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Engineer+in+progress;Kafka+%7C+Airflow+%7C+Spark;Building+Scalable+Data+Pipelines" />
-</p>
+
 
 
 <h3>About Me</h3>
