@@ -85,8 +85,12 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0ea5e9&height=120&section=footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&section=footer"
+    width="100%"
+  />
 </p>
+
 
 
 
