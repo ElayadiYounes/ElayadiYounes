@@ -56,11 +56,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-## 📊 GitHub Stats
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElayadiYounes&layout=compact&hide_border=true&theme=transparent" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ElayadiYounes&theme=github-compact&hide_border=true" width="95%"/>
 </p>
 
 ## 📫 Contact Me
